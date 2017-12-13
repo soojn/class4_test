@@ -10,6 +10,10 @@ public class SooJung {
 		System.out.println("jinseok 2:33 작성 ");
 		System.out.println("욕나와");
 		System.out.println("꾸에");
+		System.out.println("꾸에1");
+		System.out.println("꾸에32");
+		System.out.println("꾸에3");
+		System.out.println("꾸에4");
 	}
 
 }
