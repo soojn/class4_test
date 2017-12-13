@@ -6,6 +6,7 @@ public class SooJung {
 		System.out.println("soojung ");
 		System.out.println("오늘 너무 추워");
 		System.out.println("jinseok 2:33 작성 ");
+		System.out.println("욕나와");
 	}
 
 }
