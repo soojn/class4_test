@@ -6,6 +6,8 @@ public class JinSeok {
 		System.out.println("JinSeok");
 		System.out.println("2:26 작성");
 		System.out.println("Ddd");
+		System.out.println("2:36작성");
+		System.out.println("2:35작성");
 	}//mian
 
 }//JinSeok
